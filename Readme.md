@@ -2,4 +2,6 @@
 
 es werden Issues erstellt und geshlossen etc.
 
-Hintergrundfarbe wurde geändert
+Hintergrundfarbe wurde geÃ¤ndert
+
+Es werden Aufgaben erstellt und geschlossen
